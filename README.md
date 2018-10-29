@@ -1,5 +1,5 @@
-# Sassaby
-A Unit Testing Library for SASS
+# Sassaby-next
+A copy of sassaby with node-sass@4.x
 
 <img src="/logo.png?raw=true" alt="Sassaby Logo" width="250">
 
